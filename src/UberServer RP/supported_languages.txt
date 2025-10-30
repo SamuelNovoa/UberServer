@@ -1,0 +1,5 @@
+Currently supported languages:
+	Russian (ru_ru)
+	English (en_us)
+	Ukranian (uk_ua, by Kelis)
+        Spanish (es_es)

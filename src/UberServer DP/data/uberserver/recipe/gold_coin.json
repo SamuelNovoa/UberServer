@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:test_instance_block",
+        "minecraft:test_instance_block",
+        "minecraft:test_instance_block",
+        "minecraft:test_instance_block",
+        "minecraft:test_instance_block",
+        "minecraft:test_instance_block",
+        "minecraft:test_instance_block",
+        "minecraft:test_instance_block",
+        "minecraft:test_instance_block"
+    ],
+    "result": {
+        "id": "minecraft:jigsaw",
+        "components": {
+            "minecraft:item_name": {
+                "translate": "uber.item.gold_coin"
+            },
+            "minecraft:rarity": "common",
+            "minecraft:custom_model_data": {"strings": ["uber.coin.gold"]},
+            "minecraft:custom_data": {
+                "item": "uber.coin",
+                "coin": "gold"
+            }
+        },
+        "count": 1
+    }
+}

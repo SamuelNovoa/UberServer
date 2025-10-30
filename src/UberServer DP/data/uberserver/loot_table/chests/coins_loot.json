@@ -1,0 +1,87 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:test_block",
+          "weight": 32,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_name": {
+                  "translate": "uber.item.copper_coin"
+                },
+                "minecraft:rarity": "common",
+                "minecraft:custom_model_data": {"strings": ["uber.coin.copper"]},
+                "minecraft:custom_data": {
+                  "item": "uber.coin",
+                  "coin": "copper"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 9
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:test_instance_block",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_name": {
+                  "translate": "uber.item.silver_coin"
+                },
+                "minecraft:rarity": "common",
+                "minecraft:custom_model_data": {"strings": ["uber.coin.silver"]},
+                "minecraft:custom_data": {
+                  "item": "uber.coin",
+                  "coin": "silver"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:jigsaw",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_name": {
+                  "translate": "uber.item.gold_coin"
+                },
+                "minecraft:rarity": "common",
+                "minecraft:custom_model_data": {"strings": ["uber.coin.gold"]},
+                "minecraft:custom_data": {
+                  "item": "uber.coin",
+                  "coin": "gold"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

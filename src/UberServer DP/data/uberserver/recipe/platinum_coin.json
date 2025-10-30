@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:jigsaw",
+        "minecraft:jigsaw",
+        "minecraft:jigsaw",
+        "minecraft:jigsaw",
+        "minecraft:jigsaw",
+        "minecraft:jigsaw",
+        "minecraft:jigsaw",
+        "minecraft:jigsaw",
+        "minecraft:jigsaw"
+    ],
+    "result": {
+        "id": "minecraft:structure_block",
+        "components": {
+            "minecraft:item_name": {
+                "translate": "uber.item.platinum_coin"
+            },
+            "minecraft:rarity": "common",
+            "minecraft:custom_model_data": {"strings": ["uber.coin.platinum"]},
+            "minecraft:custom_data": {
+                "item": "uber.coin",
+                "coin": "platinum"
+            }
+        },
+        "count": 1
+    }
+}

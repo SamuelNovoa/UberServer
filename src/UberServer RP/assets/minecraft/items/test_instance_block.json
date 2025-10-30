@@ -1,0 +1,10 @@
+{
+  "model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{ "when": "uber.coin.silver", "model": { "type": "minecraft:model", "model": "item/silver" } }
+		],
+		"fallback": { "type": "minecraft:model", "model": "block/test_instance_block" }
+	}
+}

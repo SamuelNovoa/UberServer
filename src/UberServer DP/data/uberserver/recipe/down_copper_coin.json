@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:test_instance_block"
+    ],
+    "result": {
+        "id": "minecraft:test_block",
+        "components": {
+            "minecraft:item_name": {
+                "translate": "uber.item.copper_coin"
+            },
+            "minecraft:rarity": "common",
+            "minecraft:custom_model_data": {"strings": ["uber.coin.copper"]},
+            "minecraft:custom_data": {
+                "item": "uber.coin",
+                "coin": "copper"
+            }
+        },
+        "count": 9
+    }
+}
