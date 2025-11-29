@@ -1,0 +1,7 @@
+give @s netherite_shovel[
+    item_name={"translate":"uber.item.ancient_shovel"},
+    rarity="epic",
+    enchantments={"minecraft:efficiency": 5, "minecraft:unbreaking": 4, "minecraft:silk_touch": 1, "minecraft:mending": 1},
+    custom_model_data={"strings":["uber.item.ancient_shovel"]},
+    custom_data={"item":"uber.ancient_shovel"}
+]

@@ -4,5 +4,12 @@
   "uber.item.gold_coin": "Gold Coin",
   "uber.item.platinum_coin": "Platinum Coin",
 
+  "uber.item.ancient_shovel": "Ancient Netherite Shovel",
+  "uber.item.ancient_bow": "Ancient Netherite Bow",
+
+  "uber.item.paquito_skull": "Paquito's Skull",
+  "uber.item.sculk_sample": "Sculk Sample",
+  "uber.item.purified_sculk_sample": "Purified Sculk Sample",
+
   "if_you_see_this_message_then_you_need_to_download_the_resource_pack_from_modrinth": ""
 }

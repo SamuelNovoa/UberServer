@@ -4,5 +4,12 @@
   "uber.item.gold_coin": "Moneda de Oro",
   "uber.item.platinum_coin": "Moneda de Platino",
 
+  "uber.item.ancient_shovel": "Pala de netherita Antigua",
+  "uber.item.ancient_bow": "Arco de netherita Antiguo",
+
+  "uber.item.paquito_skull": "Cráneo de Paquito",
+  "uber.item.sculk_sample": "Muestra de Sculk",
+  "uber.item.purified_sculk_sample": "Muestra de Sculk Purificada",
+
   "if_you_see_this_message_then_you_need_to_download_the_resource_pack_from_modrinth": ""
 }

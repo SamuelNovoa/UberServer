@@ -4,5 +4,12 @@
   "uber.item.gold_coin": "Золотая Монета",
   "uber.item.platinum_coin": "Платиновая Монета",
 
+  "uber.item.ancient_shovel": "Древняя Лопата из Незерита",
+  "uber.item.ancient_bow": "Древний Лук из Незерита",
+
+  "uber.item.paquito_skull": "Череп Паquito",
+  "uber.item.sculk_sample": "Образец Скулка",
+  "uber.item.purified_sculk_sample": "Очищенный Образец Скулка",
+
   "if_you_see_this_message_then_you_need_to_download_the_resource_pack_from_modrinth": ""
 }
