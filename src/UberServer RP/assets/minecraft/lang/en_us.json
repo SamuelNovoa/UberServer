@@ -4,17 +4,34 @@
   "uber.item.gold_coin": "Gold Coin",
   "uber.item.platinum_coin": "Platinum Coin",
 
-  "uber.item.ancient_shovel": "Ancient Netherite Shovel",
-  "uber.item.ancient_bow": "Ancient Netherite Bow",
+  "uber.gear.ancient_shovel.name": "Ancient Netherite Shovel",
+  "uber.gear.ancient_shovel.lore": "This shovel has been enchanted",
+  "uber.gear.ancient_shovel.lore2": "with a powerful magic that is",
+  "uber.gear.ancient_shovel.lore3": "no longer within our reach",
 
-  "uber.item.paquito_skull": "Paquito's Skull",
-  "uber.item.sculk_sample": "Sculk Sample",
-  "uber.item.purified_sculk_sample": "Purified Sculk Sample",
+  "uber.gear.ancient_bow.name": "Ancient Netherite Bow",
+  "uber.gear.ancient_bow.lore": "An ancient bow forged by",
+  "uber.gear.ancient_bow.lore2": "a lost civilization",
+  
+  "uber.event.paquito_skull.name": "Paquito's Skull",
+  "uber.event.paquito_skull.lore": "The skull of an inhabitant of the",
+  "uber.event.paquito_skull.lore2": "ancient cities known as Paquito",
 
-  "uber.ticket.claim": "Chunk Claim Ticket",
-  "uber.ticket.forceload": "Chunk Forceload Ticket",
+  "uber.event.sculk_sample.name": "Sculk Sample",
+  "uber.event.sculk_sample.lore": "A primordial Sculk sample.",
+  "uber.event.sculk_sample.lore2": "It seems harmless, but it emits",
+  "uber.event.sculk_sample.lore3": "a disconcerting vibration",
+
+  "uber.event.purified_sculk_sample.name": "Purified Sculk Sample",
+  "uber.event.purified_sculk_sample.lore": "A Sculk sample that has been",
+  "uber.event.purified_sculk_sample.lore2": "purified. It now remains inert.",
+  "uber.event.purified_sculk_sample.lore3": "What could it be used for?",
+
+  "uber.ticket.claim.name": "Chunk Claim Ticket",
+  "uber.ticket.forceload.name": "Chunk Forceload Ticket",
   "uber.ticket.lore": "Right click to redeem",
-  "uber.ticket.trader": "Foreign Researcher",
+  
+  "uber.npc.ticket_trader.name": "Foreign Researcher",
 
   "if_you_see_this_message_then_you_need_to_download_the_resource_pack_from_modrinth": ""
 }

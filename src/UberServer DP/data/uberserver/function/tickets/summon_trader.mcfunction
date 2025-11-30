@@ -1,1 +1,66 @@
-summon villager ~ ~1 ~ {VillagerData: {profession:"minecraft:librarian", level: 5, type: "minecraft:swamp"}, CustomName: {"translate":"uber.ticket.trader"}, Offers: {Recipes: [{maxUses: 999999, uses: 0, rewardExp: 0, priceMultiplier: 0.0, buy: {id: "minecraft:test_instance_block", components: {"minecraft:item_name": {"translate":"uber.item.silver_coin"}, "minecraft:rarity": "common", "minecraft:custom_model_data": {strings: ["uber.coin.silver"]}, "minecraft:custom_data": {item: "uber.coin", coin: "silver"}}, count: 3b}, sell: {id: "minecraft:carrot_on_a_stick", count: 1b, components:{"minecraft:item_name": {"translate":"uber.ticket.claim"}, "minecraft:lore": [ {"translate":"uber.ticket.lore"} ], "minecraft:rarity": "rare", "minecraft:custom_model_data": {strings: ["uber.ticket.claim"]}, "minecraft:custom_data": {item: "uber.ticket", ticket: "claim"}}}}, {maxUses: 999999, uses: 0, rewardExp: 0, priceMultiplier: 0.0, buy: {id: "minecraft:jigsaw", components: {"minecraft:item_name": {"translate":"uber.item.gold_coin"}, "minecraft:rarity": "common", "minecraft:custom_model_data": {strings: ["uber.coin.gold"]}, "minecraft:custom_data": {item: "uber.coin", coin: "gold"}}, count: 3b}, sell: {id: "minecraft:carrot_on_a_stick", count: 1b, components:{"minecraft:item_name": {"translate":"uber.ticket.forceload"}, "minecraft:lore": [ {"translate":"uber.ticket.lore"} ], "minecraft:rarity": "rare", "minecraft:custom_model_data": {strings: ["uber.ticket.forceload"]}, "minecraft:custom_data": {item: "uber.ticket", ticket: "forceload"}}}}]}}
+summon villager ~ ~1 ~ { \
+    VillagerData: { \
+        profession:"minecraft:librarian", \
+        level: 5, \
+        type: "minecraft:swamp" \
+    }, \
+    CustomName: {"translate":"uber.npc.ticket_trader.name"}, \
+    Offers: { \
+        Recipes: [ \
+            { \
+                maxUses: 999999, \
+                uses: 0, \
+                rewardExp: 0, \
+                priceMultiplier: 0.0, \
+                buy: { \
+                    id: "minecraft:test_instance_block", \
+                    count: 3, \
+                    components: { \
+                        item_name: {translate: "uber.item.silver_coin"}, \
+                        rarity: "common", \
+                        custom_model_data: {strings: ["uber.coin.silver"]}, \
+                        custom_data: {item: "uber.coin", coin: "silver"} \
+                    } \
+                }, \
+                sell: { \
+                    id: "minecraft:carrot_on_a_stick", \
+                    count: 1, \
+                    components: { \
+                        item_name: {translate: "uber.ticket.claim.name"}, \
+                        lore: [{translate: "uber.ticket.lore"}], \
+                        rarity: "rare", \
+                        custom_model_data: {strings: ["uber.ticket.claim"]}, \
+                        custom_data: {type: "uber.ticket", item: "claim_ticket"} \
+                    } \
+                } \
+            }, \
+            { \
+                maxUses: 999999, \
+                uses: 0, \
+                rewardExp: 0, \
+                priceMultiplier: 0.0, \
+                buy: { \
+                    id: "minecraft:jigsaw", \
+                    count: 3, \
+                    components: { \
+                        item_name: {translate: "uber.item.gold_coin"}, \
+                        rarity: "common", \
+                        custom_model_data: {strings: ["uber.coin.gold"]}, \
+                        custom_data: {item: "uber.coin", coin: "gold"} \
+                    } \
+                }, \
+                sell: { \
+                    id: "minecraft:carrot_on_a_stick", \
+                    count: 1, \
+                    components: { \
+                        item_name: {translate: "uber.ticket.forceload.name"}, \
+                        lore: [{translate: "uber.ticket.lore"}], \
+                        rarity: "rare", \
+                        custom_model_data: {strings: ["uber.ticket.forceload"]}, \
+                        custom_data: {type: "uber.ticket", item: "forceload_ticket"} \
+                    } \
+                } \
+            } \
+        ] \
+    } \
+}

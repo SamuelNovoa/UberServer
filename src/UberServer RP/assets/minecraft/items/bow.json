@@ -3,7 +3,7 @@
     "type": "minecraft:select",
     "property": "minecraft:custom_model_data",
     "cases": [{
-      "when": "uber.item.ancient_bow", "model": {
+      "when": "uber.gear.ancient_bow", "model": {
         "type": "minecraft:condition",
         "on_false": {
           "type": "minecraft:model",

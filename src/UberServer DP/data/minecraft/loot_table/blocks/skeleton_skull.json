@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:copy_components",
+              "include": [
+                "minecraft:item_name",
+                "minecraft:custom_name",
+                "minecraft:lore",
+                "minecraft:rarity",
+                "minecraft:custom_data"
+              ],
+              "source": "block_entity"
+            }
+          ],
+          "name": "minecraft:skeleton_skull"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecraft:blocks/skeleton_skull"
+}

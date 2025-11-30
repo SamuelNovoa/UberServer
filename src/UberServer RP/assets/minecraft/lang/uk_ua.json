@@ -4,17 +4,34 @@
   "uber.item.gold_coin": "Золота Монета",
   "uber.item.platinum_coin": "Платинова Монета",
 
-  "uber.item.ancient_shovel": "Стародавня Лопата з Незериту",
-  "uber.item.ancient_bow": "Стародавній Лук з Незериту",
+  "uber.gear.ancient_shovel.name": "Стародавня Лопата з Незериту",
+  "uber.gear.ancient_shovel.lore": "Ця лопата була зачарована",
+  "uber.gear.ancient_shovel.lore2": "могутньою магією, яка більше",
+  "uber.gear.ancient_shovel.lore3": "не підвладна нам",
 
-  "uber.item.paquito_skull": "Череп Паquito",
-  "uber.item.sculk_sample": "Зразок Скулка",
-  "uber.item.purified_sculk_sample": "Очищений Зразок Скулка",
+  "uber.gear.ancient_bow.name": "Стародавній Лук з Незериту",
+  "uber.gear.ancient_bow.lore": "Стародавній лук, викований",
+  "uber.gear.ancient_bow.lore2": "загубленою цивілізацією",
+  
+  "uber.event.paquito_skull.name": "Череп Паquito",
+  "uber.event.paquito_skull.lore": "Череп мешканця стародавніх міст,",
+  "uber.event.paquito_skull.lore2": "відомого як Паquito",
 
-  "uber.ticket.claim": "Квиток на Захоплення Чанку",
-  "uber.ticket.forceload": "Квиток на Примусове Завантаження Чанку",
+  "uber.event.sculk_sample.name": "Зразок Скулка",
+  "uber.event.sculk_sample.lore": "Первісний зразок Скулка.",
+  "uber.event.sculk_sample.lore2": "Здається нешкідливим, але",
+  "uber.event.sculk_sample.lore3": "випромінює тривожні вібрації",
+
+  "uber.event.purified_sculk_sample.name": "Очищений Зразок Скулка",
+  "uber.event.purified_sculk_sample.lore": "Зразок Скулка, який був очищений.",
+  "uber.event.purified_sculk_sample.lore2": "Тепер він залишається інертним.",
+  "uber.event.purified_sculk_sample.lore3": "Для чого він може бути використаний?",
+
+  "uber.ticket.claim.name": "Квиток на Захоплення Чанку",
+  "uber.ticket.forceload.name": "Квиток на Примусове Завантаження Чанку",
   "uber.ticket.lore": "Клікніть правою кнопкою, щоб обміняти",
-  "uber.ticket.trader": "Іноземний Дослідник",
+  
+  "uber.npc.ticket_trader.name": "Іноземний Дослідник",
 
   "if_you_see_this_message_then_you_need_to_download_the_resource_pack_from_modrinth": ""
 }

@@ -101,4 +101,5 @@ execute as @s[scores={forceload_ticket_used=98}] run openpac player-config for @
 execute as @s[scores={forceload_ticket_used=99}] run openpac player-config for @s[type=minecraft:player] set claims.bonusChunkForceloads 99
 execute as @s[scores={forceload_ticket_used=100}] run openpac player-config for @s[type=minecraft:player] set claims.bonusChunkForceloads 100
 
-clear @s minecraft:carrot_on_a_stick[minecraft:custom_model_data={"strings":["uber.ticket.forceload"]}] 1
+execute if items entity @s weapon.mainhand minecraft:carrot_on_a_stick[minecraft:custom_data~{type: "uber.ticket", item: "forceload_ticket"}] run item replace entity @s weapon.mainhand with air
+effect give @s minecraft:wind_charged 5 0 false

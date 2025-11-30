@@ -4,17 +4,34 @@
   "uber.item.gold_coin": "Moneda de Oro",
   "uber.item.platinum_coin": "Moneda de Platino",
 
-  "uber.item.ancient_shovel": "Pala de netherita Antigua",
-  "uber.item.ancient_bow": "Arco de netherita Antiguo",
+  "uber.gear.ancient_shovel.name": "Pala de netherita Antigua",
+  "uber.gear.ancient_shovel.lore": "Esta pala ha sido encantada",
+  "uber.gear.ancient_shovel.lore2": "con una poderosa magia que ya",
+  "uber.gear.ancient_shovel.lore3": "no está a nuestro alcance",
 
-  "uber.item.paquito_skull": "Cráneo de Paquito",
-  "uber.item.sculk_sample": "Muestra de Sculk",
-  "uber.item.purified_sculk_sample": "Muestra de Sculk Purificada",
+  "uber.gear.ancient_bow.name": "Arco de netherita Antiguo",
+  "uber.gear.ancient_bow.lore": "Un arco antiguo forjado por",
+  "uber.gear.ancient_bow.lore2": "una civilización perdida",
+  
+  "uber.event.paquito_skull.name": "Cráneo de Paquito",
+  "uber.event.paquito_skull.lore": "El cráneo de un habitante de las ciudades",
+  "uber.event.paquito_skull.lore2": "antiguas conocido como Paquito",
 
-  "uber.ticket.claim": "Ticket por un chunk",
-  "uber.ticket.forceload": "Ticket por la carga de un chunk",
+  "uber.event.sculk_sample.name": "Muestra de Sculk",
+  "uber.event.sculk_sample.lore": "Una muestra de Sculk primigenia.",
+  "uber.event.sculk_sample.lore2": "Parece inofensiva, pero emite",
+  "uber.event.sculk_sample.lore3": "una vibración desconcertante",
+
+  "uber.event.purified_sculk_sample.name": "Muestra de Sculk Purificada",
+  "uber.event.purified_sculk_sample.lore": "Una muestra de Sculk que ha sido",
+  "uber.event.purified_sculk_sample.lore2": "purificada. Ahora permanece",
+  "uber.event.purified_sculk_sample.lore3": "inerte. ¿Para qué servirá?",
+  
+  "uber.ticket.claim.name": "Ticket por un chunk",
+  "uber.ticket.forceload.name": "Ticket por la carga de un chunk",
   "uber.ticket.lore": "Click derecho para canjear",
-  "uber.ticket.trader": "Investigador extranjero",
+  
+  "uber.npc.ticket_trader.name": "Investigador extranjero",
 
   "if_you_see_this_message_then_you_need_to_download_the_resource_pack_from_modrinth": ""
 }

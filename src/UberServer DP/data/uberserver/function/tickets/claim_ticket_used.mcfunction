@@ -501,4 +501,5 @@ execute as @s[scores={claim_ticket_used=498}] run openpac player-config for @s[t
 execute as @s[scores={claim_ticket_used=499}] run openpac player-config for @s[type=minecraft:player] set claims.bonusChunkClaims 499
 execute as @s[scores={claim_ticket_used=500}] run openpac player-config for @s[type=minecraft:player] set claims.bonusChunkClaims 500
 
-clear @s minecraft:carrot_on_a_stick[minecraft:custom_model_data={"strings":["uber.ticket.claim"]}] 1
+execute if items entity @s weapon.mainhand minecraft:carrot_on_a_stick[minecraft:custom_data~{type: "uber.ticket", item: "claim_ticket"}] run item replace entity @s weapon.mainhand with air
+effect give @s minecraft:wind_charged 5 0 false
