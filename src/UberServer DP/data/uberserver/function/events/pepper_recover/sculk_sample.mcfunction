@@ -1,5 +1,1 @@
-give @s minecraft:echo_shard[
-    minecraft:custom_data={sculk_sample:true},
-    minecraft:rarity="epic",
-    minecraft:item_name={"translate":"uber.item.sculk_sample"}
-] 1
+give @s minecraft:echo_shard[minecraft:custom_data={sculk_sample:true}, minecraft:rarity="epic", minecraft:item_name={"translate":"uber.item.sculk_sample"}] 1

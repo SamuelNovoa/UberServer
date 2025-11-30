@@ -11,5 +11,10 @@
   "uber.item.sculk_sample": "Sculk Sample",
   "uber.item.purified_sculk_sample": "Purified Sculk Sample",
 
+  "uber.ticket.claim": "Chunk Claim Ticket",
+  "uber.ticket.forceload": "Chunk Forceload Ticket",
+  "uber.ticket.lore": "Right click to redeem",
+  "uber.ticket.trader": "Foreign Researcher",
+
   "if_you_see_this_message_then_you_need_to_download_the_resource_pack_from_modrinth": ""
 }

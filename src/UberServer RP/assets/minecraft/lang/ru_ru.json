@@ -11,5 +11,10 @@
   "uber.item.sculk_sample": "Образец Скулка",
   "uber.item.purified_sculk_sample": "Очищенный Образец Скулка",
 
+  "uber.ticket.claim": "Билет на Захват Чанка",
+  "uber.ticket.forceload": "Билет на Принудительную Загрузку Чанка",
+  "uber.ticket.lore": "Щелкните правой кнопкой мыши, чтобы обменять",
+  "uber.ticket.trader": "Иностранный Исследователь",
+
   "if_you_see_this_message_then_you_need_to_download_the_resource_pack_from_modrinth": ""
 }

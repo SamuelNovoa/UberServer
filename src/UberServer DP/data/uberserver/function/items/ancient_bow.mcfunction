@@ -1,7 +1,1 @@
-give @s bow[
-    item_name={"translate":"uber.item.ancient_bow"},
-    rarity="epic",
-    enchantments={"minecraft:power": 5, "minecraft:unbreaking": 3, "minecraft:punch": 2, "minecraft:flame": 1, "minecraft:infinity": 1, "minecraft:mending": 1},
-    custom_model_data={"strings":["uber.item.ancient_bow"]},
-    custom_data={"item":"uber.ancient_bow"}
-]
+give @s bow[item_name={"translate":"uber.item.ancient_bow"}, rarity="epic", enchantments={"minecraft:power": 5, "minecraft:unbreaking": 3, "minecraft:punch": 2, "minecraft:flame": 1, "minecraft:infinity": 1, "minecraft:mending": 1}, custom_model_data={"strings":["uber.item.ancient_bow"]}, custom_data={"item":"uber.ancient_bow"}] 1

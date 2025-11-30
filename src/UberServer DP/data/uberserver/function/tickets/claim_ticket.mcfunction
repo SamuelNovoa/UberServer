@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick[item_name={"translate":"uber.ticket.claim"}, lore=[{"translate":"uber.ticket.lore"}], rarity="rare", custom_model_data={"strings":["uber.ticket.claim"]}, custom_data={"item":"uber.ticket","ticket":"claim"}]
