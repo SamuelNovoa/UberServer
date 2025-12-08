@@ -30,6 +30,9 @@
   "uber.ticket.claim.name": "Chunk Claim Ticket",
   "uber.ticket.forceload.name": "Chunk Forceload Ticket",
   "uber.ticket.lore": "Right click to redeem",
+
+  "uber.trinkets.infinite_pearl.name": "Infinite Ender Pearl",
+  "uber.trinkets.infinite_pearl.lore": "¡Is infinite!",
   
   "uber.npc.ticket_trader.name": "Foreign Researcher",
 

@@ -30,6 +30,9 @@
   "uber.ticket.claim.name": "Ticket por un chunk",
   "uber.ticket.forceload.name": "Ticket por la carga de un chunk",
   "uber.ticket.lore": "Click derecho para canjear",
+
+  "uber.trinkets.infinite_pearl.name": "Perla de Ender Infinita",
+  "uber.trinkets.infinite_pearl.lore": "¡Es infinita!",
   
   "uber.npc.ticket_trader.name": "Investigador extranjero",
 

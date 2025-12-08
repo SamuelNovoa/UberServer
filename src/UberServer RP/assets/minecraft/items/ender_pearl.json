@@ -1,0 +1,10 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      { "when": "uber.trinkets.infinite_pearl", "model": { "type": "minecraft:model", "model": "item/infinite_ender_pearl" } }
+    ],
+    "fallback": { "type": "minecraft:model", "model": "minecraft:item/ender_pearl" }
+  }
+}

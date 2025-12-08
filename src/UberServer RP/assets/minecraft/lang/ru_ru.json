@@ -30,6 +30,9 @@
   "uber.ticket.claim.name": "Билет на Захват Чанка",
   "uber.ticket.forceload.name": "Билет на Принудительную Загрузку Чанка",
   "uber.ticket.lore": "Щелкните правой кнопкой мыши, чтобы обменять",
+
+  "uber.trinkets.infinite_pearl.name": "Бесконечная Жемчужина Эндера",
+  "uber.trinkets.infinite_pearl.lore": "Она бесконечна!",
   
   "uber.npc.ticket_trader.name": "Иностранный Исследователь",
 
