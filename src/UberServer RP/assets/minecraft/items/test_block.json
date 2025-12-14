@@ -3,7 +3,7 @@
     "type": "minecraft:select",
     "property": "minecraft:custom_model_data",
     "cases": [
-      { "when": "uber.coin.copper", "model": { "type": "minecraft:model", "model": "minecraft:item/copper" } }
+      { "when": "uber.coin.copper", "model": { "type": "minecraft:model", "model": "uberserver:item/copper" } }
     ],
     "fallback": { "type": "minecraft:model", "model": "minecraft:block/test_block_start" }
   }

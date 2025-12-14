@@ -1,4 +1,5 @@
 summon villager ~ ~1 ~ { \
+    Invulnerable: 1b, \
     VillagerData: { \
         profession:"minecraft:librarian", \
         level: 5, \

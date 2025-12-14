@@ -7,7 +7,7 @@
         "type": "minecraft:condition",
         "on_false": {
           "type": "minecraft:model",
-          "model": "minecraft:item/dungeon_nocturnal_bow"
+          "model": "uberserver:item/dungeon_nocturnal_bow"
         },
         "on_true": {
           "type": "minecraft:range_dispatch",
@@ -15,21 +15,21 @@
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/dungeon_nocturnal_bow_pulling_1"
+                "model": "uberserver:item/dungeon_nocturnal_bow_pulling_1"
               },
               "threshold": 0.65
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/dungeon_nocturnal_bow_pulling_2"
+                "model": "uberserver:item/dungeon_nocturnal_bow_pulling_2"
               },
               "threshold": 0.9
             }
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/dungeon_nocturnal_bow_pulling_0"
+            "model": "uberserver:item/dungeon_nocturnal_bow_pulling_0"
           },
           "property": "minecraft:use_duration",
           "scale": 0.05

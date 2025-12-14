@@ -3,8 +3,8 @@
     "type": "minecraft:select",
     "property": "minecraft:custom_model_data",
     "cases": [
-      { "when": "uber.ticket.claim", "model": { "type": "minecraft:model", "model": "minecraft:item/claim_ticket" } },
-      { "when": "uber.ticket.forceload", "model": { "type": "minecraft:model", "model": "minecraft:item/forceload_ticket" } }
+      { "when": "uber.ticket.claim", "model": { "type": "minecraft:model", "model": "uberserver:item/claim_ticket" } },
+      { "when": "uber.ticket.forceload", "model": { "type": "minecraft:model", "model": "uberserver:item/forceload_ticket" } }
     ],
     "fallback": { "type": "minecraft:model", "model": "minecraft:item/carrot_on_a_stick" }
   }

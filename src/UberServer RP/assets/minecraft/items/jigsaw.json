@@ -3,8 +3,8 @@
 		"type": "minecraft:select",
 		"property": "minecraft:custom_model_data",
 		"cases": [
-			{ "when": "uber.coin.gold", "model": { "type": "minecraft:model", "model": "item/gold" } }
+			{ "when": "uber.coin.gold", "model": { "type": "minecraft:model", "model": "uberserver:item/gold" } }
 		],
-		"fallback": { "type": "minecraft:model", "model": "block/jigsaw" }
+		"fallback": { "type": "minecraft:model", "model": "minecraft:block/jigsaw" }
 	}
 }
