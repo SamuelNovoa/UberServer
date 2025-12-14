@@ -1,0 +1,57 @@
+{
+  "uber.item.copper_coin": "Moneda de Cobre",
+  "uber.item.silver_coin": "Moneda de Plata",
+  "uber.item.gold_coin": "Moneda de Oro",
+  "uber.item.platinum_coin": "Moneda de Platino",
+
+  "uber.gear.ancient_shovel.name": "Pala de netherita Antigua",
+  "uber.gear.ancient_shovel.lore": "Esta pala ha sido encantada",
+  "uber.gear.ancient_shovel.lore2": "con una poderosa magia que ya",
+  "uber.gear.ancient_shovel.lore3": "no está a nuestro alcance",
+
+  "uber.gear.ancient_bow.name": "Arco de netherita Antiguo",
+  "uber.gear.ancient_bow.lore": "Un arco antiguo forjado por",
+  "uber.gear.ancient_bow.lore2": "una civilización perdida",
+
+  "uber.gear.diamond_rank.lore": "Rango Diamante",
+  "uber.gear.netherite_rank.lore": "Rango Netherita",
+
+  "uber.gear.purified_sculk_gear.lore": "¡Siente el poder del Sculk!",
+  "uber.gear.minimal_gear.lore": "¡Con el es como si no llevara nada!",
+
+  "uber.pattern.purified_sculk_armor_pattern.name": "Patrón para armaduras de Sculk Purificada",
+  "uber.pattern.purified_sculk_weapon_pattern.name": "Patrón para armas de Sculk Purificada",
+  "uber.pattern.purified_sculk_tool_pattern.name": "Patrón para herramientas de Sculk Purificada",
+  "uber.pattern.minimal_netherite_armor_pattern.name": "Patrón para armaduras de netherita minimalista",
+  "uber.pattern.minimal_diamond_armor_pattern.name": "Patrón para armaduras de diamante minimalista",
+
+  "uber.pattern.patterns.lore": "¡Combínalo en una mesa de herrería!",
+  
+  "uber.event.paquito_skull.name": "Cráneo de Paquito",
+  "uber.event.paquito_skull.lore": "El cráneo de un habitante de las ciudades",
+  "uber.event.paquito_skull.lore2": "antiguas conocido como Paquito",
+
+  "uber.event.sculk_sample.name": "Muestra de Sculk",
+  "uber.event.sculk_sample.lore": "Una muestra de Sculk primigenia.",
+  "uber.event.sculk_sample.lore2": "Parece inofensiva, pero emite",
+  "uber.event.sculk_sample.lore3": "una vibración desconcertante",
+
+  "uber.event.purified_sculk_sample.name": "Muestra de Sculk Purificada",
+  "uber.event.purified_sculk_sample.lore": "Una muestra de Sculk que ha sido",
+  "uber.event.purified_sculk_sample.lore2": "purificada. Ahora permanece",
+  "uber.event.purified_sculk_sample.lore3": "inerte. ¿Para qué servirá?",
+  
+  "uber.ticket.claim.name": "Ticket por un chunk",
+  "uber.ticket.forceload.name": "Ticket por la carga de un chunk",
+  "uber.ticket.lore": "Click derecho para canjear",
+
+  "uber.trinkets.infinite_pearl.name": "Perla de Ender Infinita",
+  "uber.trinkets.infinite_pearl.lore": "¡Es infinita!",
+  
+  "uber.npc.ticket_trader.name": "Investigador extranjero",
+  "uber.npc.pattern_trader_armor.name": "Maestro herrero de armaduras",
+  "uber.npc.pattern_trader_weapon.name": "Maestro herrero de armas",
+  "uber.npc.pattern_trader_tool.name": "Maestro herrero de herramientas",
+
+  "if_you_see_this_message_then_you_need_to_download_the_resource_pack_from_modrinth": ""
+}

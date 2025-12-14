@@ -1,0 +1,57 @@
+{
+  "uber.item.copper_coin": "Copper Coin",
+  "uber.item.silver_coin": "Silver Coin",
+  "uber.item.gold_coin": "Gold Coin",
+  "uber.item.platinum_coin": "Platinum Coin",
+
+  "uber.gear.ancient_shovel.name": "Ancient Netherite Shovel",
+  "uber.gear.ancient_shovel.lore": "This shovel has been enchanted",
+  "uber.gear.ancient_shovel.lore2": "with a powerful magic that is",
+  "uber.gear.ancient_shovel.lore3": "no longer within our reach",
+
+  "uber.gear.ancient_bow.name": "Ancient Netherite Bow",
+  "uber.gear.ancient_bow.lore": "An ancient bow forged by",
+  "uber.gear.ancient_bow.lore2": "a lost civilization",
+
+  "uber.gear.diamond_rank.lore": "Diamond Rank",
+  "uber.gear.netherite_rank.lore": "Netherite Rank",
+
+  "uber.gear.purified_sculk_gear.lore": "Feel the power of the Sculk!",
+  "uber.gear.minimal_gear.lore": "Feels like I'm wearing nothing at all!",
+
+  "uber.pattern.purified_sculk_armor_pattern.name": "Purified Sculk Armor Pattern",
+  "uber.pattern.purified_sculk_weapon_pattern.name": "Purified Sculk Weapon Pattern",
+  "uber.pattern.purified_sculk_tool_pattern.name": "Purified Sculk Tool Pattern",
+  "uber.pattern.minimal_netherite_armor_pattern.name": "Minimal Netherite Armor Pattern",
+  "uber.pattern.minimal_diamond_armor_pattern.name": "Minimal Diamond Armor Pattern",
+
+  "uber.pattern.patterns.lore": "Combine it on a smithing table!",
+  
+  "uber.event.paquito_skull.name": "Paquito's Skull",
+  "uber.event.paquito_skull.lore": "The skull of an inhabitant of the",
+  "uber.event.paquito_skull.lore2": "ancient cities known as Paquito",
+
+  "uber.event.sculk_sample.name": "Sculk Sample",
+  "uber.event.sculk_sample.lore": "A primordial Sculk sample.",
+  "uber.event.sculk_sample.lore2": "It seems harmless, but it emits",
+  "uber.event.sculk_sample.lore3": "a disconcerting vibration",
+
+  "uber.event.purified_sculk_sample.name": "Purified Sculk Sample",
+  "uber.event.purified_sculk_sample.lore": "A Sculk sample that has been",
+  "uber.event.purified_sculk_sample.lore2": "purified. It now remains inert.",
+  "uber.event.purified_sculk_sample.lore3": "What could it be used for?",
+
+  "uber.ticket.claim.name": "Chunk Claim Ticket",
+  "uber.ticket.forceload.name": "Chunk Forceload Ticket",
+  "uber.ticket.lore": "Right click to redeem",
+
+  "uber.trinkets.infinite_pearl.name": "Infinite Ender Pearl",
+  "uber.trinkets.infinite_pearl.lore": "¡Is infinite!",
+  
+  "uber.npc.ticket_trader.name": "Foreign Researcher",
+  "uber.npc.pattern_trader_armor.name": "Armor Smithing Master",
+  "uber.npc.pattern_trader_weapon.name": "Weapon Smithing Master",
+  "uber.npc.pattern_trader_tool.name": "Tool Smithing Master",
+
+  "if_you_see_this_message_then_you_need_to_download_the_resource_pack_from_modrinth": ""
+}

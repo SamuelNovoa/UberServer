@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      { "when": "uber.pattern.purified_sculk_armor_pattern", "model": { "type": "minecraft:model", "model": "uberserver:item/purified_sculk_armor_pattern" } },
+      { "when": "uber.pattern.purified_sculk_weapon_pattern", "model": { "type": "minecraft:model", "model": "uberserver:item/purified_sculk_weapon_pattern" } },
+      { "when": "uber.pattern.purified_sculk_tool_pattern", "model": { "type": "minecraft:model", "model": "uberserver:item/purified_sculk_tool_pattern" } },
+      { "when": "uber.pattern.minimal_netherite_armor_pattern", "model": { "type": "minecraft:model", "model": "uberserver:item/minimal_netherite_armor_pattern" } },
+      { "when": "uber.pattern.minimal_diamond_armor_pattern", "model": { "type": "minecraft:model", "model": "uberserver:item/minimal_diamond_armor_pattern" } }
+    ],
+    "fallback": { "type": "minecraft:model", "model": "minecraft:item/paper" }
+  }
+}

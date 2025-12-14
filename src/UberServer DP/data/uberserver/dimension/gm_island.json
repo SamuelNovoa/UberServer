@@ -1,0 +1,10 @@
+{
+  "type": "uberserver:gm_island",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+        "layers": [],
+        "biome": "minecraft:the_void"
+    }
+  }
+}

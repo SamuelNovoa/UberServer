@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "uberserver:item/purified_sculk_hoe"
+  }
+}

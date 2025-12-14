@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "fabric:type": "fabric:components",
+    "base": "minecraft:paper",
+    "components": {
+        "minecraft:custom_data": {
+            "type": "uber.pattern",
+            "item": "minimal_netherite_armor_pattern"
+        }
+    },
+    "strict": true
+  },
+  "base": "minecraft:netherite_chestplate",
+  "result": {
+    "id": "minecraft:netherite_chestplate",
+    "components": {
+        "minecraft:lore": [{"translate": "uber.gear.minimal_gear.lore"}, {"translate": "uber.gear.netherite_rank.lore"}],
+        "minecraft:equippable": {
+            "slot": "chest",
+            "asset_id": "uberserver:minimal_netherite"
+        }
+    }
+  }
+}

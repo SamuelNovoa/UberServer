@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "uberserver:minimal_diamond"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "uberserver:minimal_diamond"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      { "when": "uber.gear.purified_sculk_sword", "model": { "type": "minecraft:model", "model": "uberserver:item/purified_sculk_sword" } }
+    ],
+    "fallback": { "type": "minecraft:model", "model": "minecraft:item/netherite_sword" }
+  }
+}

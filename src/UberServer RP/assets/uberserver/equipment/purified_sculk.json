@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "uberserver:purified_sculk"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "uberserver:purified_sculk"
+      }
+    ]
+  }
+}

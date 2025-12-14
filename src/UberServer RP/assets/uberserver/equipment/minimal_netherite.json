@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "uberserver:minimal_netherite"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "uberserver:minimal_netherite"
+      }
+    ]
+  }
+}
