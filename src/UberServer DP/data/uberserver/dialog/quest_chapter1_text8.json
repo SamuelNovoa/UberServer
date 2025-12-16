@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:notice",
+  "title": {
+    "translate": "uber.npc.quest_giver.name"
+  },
+  "body": {
+    "type": "plain_message",
+    "contents": {"translate": "uber.npc.quest_giver.dialogue.chapter1.text8"},
+    "width": 400
+  },
+  "can_close_with_escape": true,
+  "exit_action": {
+    "label": {
+      "translate": "gui.back"
+    },
+    "width": 200
+  }
+}

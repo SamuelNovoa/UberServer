@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "click": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:villager",
+          "nbt": "{Tags:[\"uber.quest_giver\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "uberserver:dialog/open_quest_giver"
+  }
+}

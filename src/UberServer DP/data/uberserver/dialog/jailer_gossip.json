@@ -1,20 +1,20 @@
 {
   "type": "minecraft:multi_action",
   "title": {
-    "translate": "uber.npc.quest_giver.name"
+    "translate": "uber.npc.jailer.name"
   },
   "body": {
     "type": "plain_message",
-    "contents": {"translate": "uber.npc.quest_giver.dialogue.chapter1.text3"},
+    "contents": {"translate": "uber.npc.jailer.dialogue.gossip"},
     "width": 400
   },
   "can_close_with_escape": true,
   "actions": [
     {
-      "label": {"translate": "uber.npc.quest_giver.dialogue.chapter1.text3.answer1"},
+      "label": {"translate": "uber.npc.jailer.dialogue.gossip.answer1"},
       "action": {
         "type": "show_dialog",
-        "dialog": "uberserver:quest_chapter1_text4"
+        "dialog": "uberserver:jailer_gossip2"
       },
       "width": 300
     }

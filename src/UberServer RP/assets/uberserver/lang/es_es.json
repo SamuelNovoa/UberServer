@@ -62,15 +62,37 @@
   "uber.npc.pattern_trader_weapon.name": "Sindri",
   "uber.npc.pattern_trader_tool.name": "Eitri",
 
-  "uber.npc.quest_giver.dialogue.chapter1.text1": "¡Ahí estás! Tu eres uno de esa gente que correteaba por arriba cambiando micelio sobrecargando la máquina, ¿No? Bueno, no os preocupéis, la hemos apagado de momento. Y tened cuidado, nos ha costado mucho despejar esta sección de la ruina, no vayáis a provocar otro desprendimiento.",
-  "uber.npc.quest_giver.dialogue.chapter1.text1.answer1": "Disculpa, pero... ¿Quién eres tú?",
-  "uber.npc.quest_giver.dialogue.chapter1.text1.answer2": "¿A que te parto la cara, payaso? ¿Tu quien eres y de qué vás?",
-  "uber.npc.quest_giver.dialogue.chapter1.text2": "¿No nos reconoces? ¡Estás hablando con Indiana Jones, representante de esta expedición de la sociedad arqueológica del cubo! Llegamos aquí siguiendo la cápsula que habéis visto caer del cielo. Nuestra sociedad lleva siglos siguiéndola con nuestros telescopios, ¡Y por fin ha caído!",
+  "uber.npc.quest_giver.dialogue.chapter1.text1": "¡Ahí estás! Tú eres uno de los que correteaban por arriba cambiando micelio y sobrecargando la máquina, ¿no? Bueno, no os preocupéis, la hemos apagado por ahora. Y tened cuidado: nos ha costado mucho despejar esta sección de la ruina. No vayáis a provocar otro desprendimiento.",
+  "uber.npc.quest_giver.dialogue.chapter1.text1.answer1": "Disculpa, pero... ¿quién eres tú?",
+  "uber.npc.quest_giver.dialogue.chapter1.text1.answer2": "¿A que te parto la cara, payaso? ¿Tú quién eres y de qué vas?",
+
+  "uber.npc.quest_giver.dialogue.chapter1.text2": "¿No nos reconoces? ¡Estás hablando con Indiana Jones, representante de esta expedición de la Sociedad Arqueológica del Cubo! Llegamos aquí siguiendo la cápsula que habéis visto caer del cielo. Nuestra sociedad lleva siglos observándola con telescopios, ¡y por fin ha caído!",
   "uber.npc.quest_giver.dialogue.chapter1.text2.answer1": "¿Cápsula? ¿Órbita? ¿De qué hablas?",
-  "uber.npc.quest_giver.dialogue.chapter1.text2.answer2": "¿Tiene que ver con el Sculk que hemos encontrado?",
-  "uber.npc.quest_giver.dialogue.chapter1.text3": "Disculpa, a veces olvido que no todo el mundo está tan versado en las ciencias. Verás, seguro que conoces el Sculk, ¿Verdad? Es un material aparentemente inerte, pero cuando se le alimenta con el alma de una criatura cercana, cobra vida durante un instante para expandirse.",
-  "uber.npc.quest_giver.dialogue.chapter1.text3.alt1": "¡Ya habéis encontrado uno! ¡Maravilloso! Veo que hablo con gente preparada, eso facilita mucho las cosas. Como sabréis, el Sculk es capaz de tomar vida para expandirse, cuando es alimentado por el alma de una criatura cercana, ¿Verdad?",
-  "uber.npc.quest_giver.dialogue.chapter1.text3.answer1": "Ajam...",
-  "uber.npc.quest_giver.dialogue.chapter1.text3.text4": "Pues bien, nuestra sociedad ha teorizado durante siglos que el Sculk que conocemos hoy no es más que una forma durmiente de la verdadera monstruosidad que los Antiguos Ciudadanos desataron cuándo consiguieron cavar a través de la Piedra Base. Por todos es sabido que la aparición del Sculk coincidió con la desaparición de estas civilizaciones, pero nadie ha sido capaz de explicar el vínculo entre ambos sucesos.",
+  "uber.npc.quest_giver.dialogue.chapter1.text2.answer2": "¿Tiene que ver con el sculk que hemos encontrado?",
+
+  "uber.npc.quest_giver.dialogue.chapter1.text3": "Disculpa, a veces olvido que no todo el mundo está tan versado en las ciencias. Verás, seguro que conoces el sculk, ¿verdad? Es un material aparentemente inerte, pero cuando se alimenta con el alma de una criatura cercana, cobra vida durante un instante para expandirse.",
+  "uber.npc.quest_giver.dialogue.chapter1.text3.alt1": "¡Así que ya habéis encontrado uno! ¡Maravilloso! Veo que hablo con gente preparada, eso facilita mucho las cosas. Como sabréis, el sculk es capaz de cobrar vida y expandirse cuando se alimenta del alma de una criatura cercana, ¿verdad?",
+  "uber.npc.quest_giver.dialogue.chapter1.text3.answer1": "Ajá...",
+
+  "uber.npc.quest_giver.dialogue.chapter1.text4": "Pues bien, nuestra sociedad ha teorizado durante siglos que el sculk que conocemos hoy no es más que una forma durmiente de la verdadera monstruosidad que los Antiguos Ciudadanos desataron cuando lograron cavar a través de la Piedra Base. Es bien sabido que la aparición del sculk coincidió con la desaparición de estas civilizaciones, pero nadie ha conseguido explicar el vínculo entre ambos sucesos.",
+  "uber.npc.quest_giver.dialogue.chapter1.text4.answer1": "¿Y vosotros sí?",
+
+  "uber.npc.quest_giver.dialogue.chapter1.text5": "No, ¡Nosotros creemos que su civilización, en realidad, no desapareció! Sí, hay evidencias de que muchos murieron en las profundidades, pero también hemos encontrado pruebas de que lograron manipular ese sculk primigenio. Estamos convencidos de que no solo lo usaron como material, sino como forma de propulsión para construir naves capaces de abandonar este mundo. ¿Lo entiendes? ¡No se extinguieron! ¡Se fueron! ¡Y la cápsula es la prueba! Pero aún hay más: la cápsula contenía dos muestras de ese sculk primigenio. Una de ellas la tenéis vosotros... y la otra...",
+  "uber.npc.quest_giver.dialogue.chapter1.text5.answer1": "¿Qué pasa con la otra?",
+
+  "uber.npc.quest_giver.dialogue.chapter1.text6": "Bueno, verás... esa es la parte mala. Estamos bastante seguros de que la otra muestra se ha activado y ha escapado. Seguro que habréis notado cómo el sculk se ha ido extendiendo por las cuevas. Hemos salido a investigar y, para colmo, parece que ha puesto huevos... ¡Huevos de sculk! ¡Ni siquiera sabíamos que podía hacer algo así! El problema es que, si esos huevos eclosionan, el sculk primigenio se expandirá sin control hasta consumir el mundo entero. Nuestro plan es seguir buscando nuevas ruinas en la dirección opuesta a su expansión y no detenernos jamás, aunque quizá vosotros queráis intentar detenerlo. ¿Os atrevéis?",
+  "uber.npc.quest_giver.dialogue.chapter1.text6.answer1": "¡Por supuesto! ¡Debemos detenerlo!",
+  "uber.npc.quest_giver.dialogue.chapter1.text6.answer2": "Lo siento, pero no es asunto nuestro.",
+
+  "uber.npc.quest_giver.dialogue.chapter1.text7": "¡Vaya! Hoy en día la gente acepta misiones suicidas con mucha facilidad... En fin, si estáis decididos, podéis usar los detectores de sculk que hemos calibrado para localizar los huevos. Están en el cofre a mi izquierda. Simplemente seguid la aguja del detector hasta que os lleve a uno y destruid a las criaturas que haya dentro. Probablemente aparezcan más con el tiempo, así que será mejor que volváis de vez en cuando. De hecho... si conseguís más muestras de sculk allí, ¿Por qué no nos las traéis? Nos interesaría mucho investigarlas, y tal vez nuestros herreros puedan crear algo especial para vosotros con ellas...",
+  "uber.npc.quest_giver.dialogue.chapter1.text7.answer1": "¡Claro! ¡Nos pondremos a ello de inmediato!",
+  "uber.npc.quest_giver.dialogue.chapter1.text7.answer2": "Lo siento, no tengo interés en ayudaros.",
+
+  "uber.npc.quest_giver.dialogue.chapter1.text8": "¡Fantástico! ¡Os estaré esperando por aquí! ¡Buena suerte! Ah, y por cierto: despejar estas ruinas nos está costando mucho trabajo. Si quisierais ayudarnos, solemos encontrar todo tipo de objetos valiosos entre los escombros, y podrían ser vuestros. Solo tenéis que retirar la roca y la grava... ¡Y llevar siempre un pincel a mano! En cuánto a la pared del fondo, ni os esforcéis mucho... Esa piedra es antigua y dura como la piedra base. Hará falta algo más fuerte para retirarla, pero ya estamos en ello...",
+
+  "uber.npc.jailer.dialogue.gossip": "¡La tecnología avanza a pasos agigantados!",
+  "uber.npc.jailer.dialogue.gossip.answer1": "...",
+  "uber.npc.jailer.dialogue.gossip2": "¿Sabías que puedes convertir tus muestras de Sculk en aspectos para tu equipo?",
+
   "if_you_see_this_message_then_you_need_to_download_the_resource_pack_from_modrinth": ""
 }

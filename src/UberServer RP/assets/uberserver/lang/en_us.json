@@ -62,5 +62,37 @@
   "uber.npc.pattern_trader_weapon.name": "Sindri",
   "uber.npc.pattern_trader_tool.name": "Eitri",
 
+  "uber.npc.quest_giver.dialogue.chapter1.text1": "There you are! You're one of those running around up there changing mycelium and overloading the machine, right? Well, don't worry, we've shut it down for now. And be careful: it's taken us a lot of work to clear this section of the ruin. Don't go causing another collapse.",
+  "uber.npc.quest_giver.dialogue.chapter1.text1.answer1": "Excuse me, but... who are you?",
+  "uber.npc.quest_giver.dialogue.chapter1.text1.answer2": "How about I punch your face, clown? Who are you and what's your deal?",
+
+  "uber.npc.quest_giver.dialogue.chapter1.text2": "Don't you recognize us? You're talking to Indiana Jones, representative of this expedition from the Cube Archaeological Society! We came here following the capsule you saw fall from the sky. Our society has been watching it with telescopes for centuries, and it's finally fallen!",
+  "uber.npc.quest_giver.dialogue.chapter1.text2.answer1": "Capsule? Orbit? What are you talking about?",
+  "uber.npc.quest_giver.dialogue.chapter1.text2.answer2": "Does it have to do with the sculk we found?",
+
+  "uber.npc.quest_giver.dialogue.chapter1.text3": "Sorry, sometimes I forget not everyone is so well-versed in the sciences. You see, surely you know about sculk, right? It's a seemingly inert material, but when it feeds on the soul of a nearby creature, it comes to life for an instant to expand.",
+  "uber.npc.quest_giver.dialogue.chapter1.text3.alt1": "So you've already found one! Wonderful! I see I'm speaking with prepared people, that makes things much easier. As you know, sculk is capable of coming to life and expanding when it feeds on the soul of a nearby creature, right?",
+  "uber.npc.quest_giver.dialogue.chapter1.text3.answer1": "Uh-huh...",
+
+  "uber.npc.quest_giver.dialogue.chapter1.text4": "Well then, our society has theorized for centuries that the sculk we know today is nothing more than a dormant form of the true monstrosity that the Ancient Citizens unleashed when they managed to dig through the Bedrock. It's well known that the appearance of sculk coincided with the disappearance of these civilizations, but no one has managed to explain the link between both events.",
+  "uber.npc.quest_giver.dialogue.chapter1.text4.answer1": "And you have?",
+
+  "uber.npc.quest_giver.dialogue.chapter1.text5": "You see, we believe their civilization didn't actually disappear! Yes, there's evidence that many died in the depths, but we've also found proof that they managed to manipulate that primordial sculk. We're convinced that they not only used it as a material, but as a form of propulsion to build ships capable of leaving this world. Do you understand? They didn't go extinct! They left! And the capsule is the proof! But there's more: the capsule contained two samples of that primordial sculk. One of them you have... and the other...",
+  "uber.npc.quest_giver.dialogue.chapter1.text5.answer1": "What about the other one?",
+
+  "uber.npc.quest_giver.dialogue.chapter1.text6": "Well, you see... that's the bad part. We're quite sure the other sample has activated and escaped. Surely you've noticed how sculk has been spreading through the caves. We went out to investigate and, to top it off, it seems to have laid eggs... Sculk eggs! We didn't even know it could do something like that! The problem is, if those eggs hatch, the primordial sculk will spread out of control until it consumes the entire world. Our plan is to keep searching for new ruins in the opposite direction of its expansion and never stop, although perhaps you'd like to try to stop it. Do you dare?",
+  "uber.npc.quest_giver.dialogue.chapter1.text6.answer1": "Of course! We must stop it!",
+  "uber.npc.quest_giver.dialogue.chapter1.text6.answer2": "I'm sorry, but it's not our business.",
+
+  "uber.npc.quest_giver.dialogue.chapter1.text7": "Wow! These days people accept suicidal missions too easily... Anyway, if you're determined, you can use the sculk detectors we've calibrated to locate the eggs. They're in the chest to my left. Simply follow the detector's needle until it leads you to one and destroy the creatures inside. More will probably appear over time, so you'd better come back from time to time. In fact... if you get more sculk samples there, why don't you bring them to us? We'd be very interested in researching them, and perhaps our blacksmiths can create something special for you with them...",
+  "uber.npc.quest_giver.dialogue.chapter1.text7.answer1": "Sure! We'll get right on it!",
+  "uber.npc.quest_giver.dialogue.chapter1.text7.answer2": "Sorry, I have no interest in helping you.",
+
+  "uber.npc.quest_giver.dialogue.chapter1.text8": "Fantastic! I'll be waiting around here! Good luck! Oh, and by the way: clearing these ruins is costing us a lot of work. If you wanted to help us, we usually find all kinds of valuable objects among the rubble, and they could be yours. You just have to remove the rock and gravel... And always carry a brush with you! As for the back wall, don't even try too hard... That stone is ancient and hard as bedrock. It'll take something stronger to remove it, but we're working on it...",
+
+  "uber.npc.jailer.dialogue.gossip": "The power of science is staggering!",
+  "uber.npc.jailer.dialogue.gossip.answer1": "...",
+  "uber.npc.jailer.dialogue.gossip2": "Did you know you can turn your sculk samples into aspects for your gear?",
+
   "if_you_see_this_message_then_you_need_to_download_the_resource_pack_from_modrinth": ""
 }

@@ -1,9 +1,10 @@
-summon villager ~ ~1 ~ { \
+summon villager ~ ~ ~ { \
+    NoAI: 1b, \
     Invulnerable: 1b, \
     VillagerData: { \
-        profession:"minecraft:librarian", \
+        profession:"minecraft:cartographer", \
         level: 5, \
-        type: "minecraft:swamp" \
+        type: "minecraft:savanna" \
     }, \
     CustomName: {"translate":"uber.npc.ticket_trader.name"}, \
     Offers: { \
