@@ -1,4 +1,5 @@
-summon villager ~ ~1 ~ { \
+summon villager ~ ~ ~ { \
+    NoAI: 1b, \
     Invulnerable: 1b, \
     VillagerData: { \
         profession:"minecraft:armorer", \

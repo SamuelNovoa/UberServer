@@ -1,0 +1,1 @@
+execute in uberserver:gm_island run tp @s -130 28 -133

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:multi_action",
+  "title": {
+    "translate": "uber.npc.quest_giver.name"
+  },
+  "body": {
+    "type": "plain_message",
+    "contents": {"translate": "uber.npc.quest_giver.dialogue.chapter1.text4"}
+  },
+  "can_close_with_escape": true,
+  "actions": [
+    {
+      "label": {"translate": "uber.npc.quest_giver.dialogue.chapter1.text1.answer1"},
+      "action": {
+        "type": "show_dialog",
+        "dialog": "uberserver:quest_chapter1_text2"
+      }
+    }
+  ],
+  "exit_action": {
+    "label": {
+      "translate": "gui.back"
+    },
+    "width": 200
+  }
+}

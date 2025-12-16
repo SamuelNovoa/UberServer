@@ -1,0 +1,39 @@
+{
+  "loot_tables_to_eject": [
+    {
+      "data": "uberserver:spawners/sculk_vault/key",
+      "weight": 1
+    }
+  ],
+  "items_to_drop_when_ominous": "uberserver:spawners/sculk_vault/key",
+  "total_mobs": 12,
+  "simultaneous_mobs": 3.0,
+  "simultaneous_mobs_added_per_player": 1.0,
+  "spawn_potentials": [
+    {
+      "data": {
+        "entity": {
+          "id": "minecraft:zombie"
+        },
+        "equipment": {
+          "loot_table": "minecraft:equipment/trial_chamber_melee",
+          "slot_drop_chances": 0.0
+        }
+      },
+      "weight": 1
+    },
+    {
+      "data": {
+        "entity": {
+          "id": "minecraft:bogged"
+        },
+        "equipment": {
+          "loot_table": "minecraft:equipment/trial_chamber_ranged",
+          "slot_drop_chances": 0.0
+        }
+      },
+      "weight": 1
+    }
+  ],
+  "ticks_between_spawn": 20
+}
