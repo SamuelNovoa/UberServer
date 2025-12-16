@@ -1,0 +1,52 @@
+{
+  "type": "minecraft:archaeology",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "uberserver:archaeology/pepper_recovery_common",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "uberserver:archaeology/pepper_recovery_pottery",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "uberserver:archaeology/pepper_recovery_rare",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:echo_shard",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_name": {
+                  "translate": "uber.event.sculk_sample.name"
+                },
+                "minecraft:lore": [
+                    {"translate": "uber.event.sculk_sample.lore"},
+                    {"translate": "uber.event.sculk_sample.lore2"},
+                    {"translate": "uber.event.sculk_sample.lore3"}
+                ],
+                "minecraft:rarity": "rare",
+                "minecraft:custom_data": {
+                  "type": "uber.event",
+                  "item": "sculk_sample"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "random_sequence": "uberserver:archaeology/pepper_recovery"
+}

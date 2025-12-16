@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:paper",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_name": {
+                  "translate": "uber.event.sculk_key.name"
+                },
+                "minecraft:lore": [{"translate": "uber.event.sculk_key.lore"}],
+                "minecraft:rarity": "common",
+                "minecraft:custom_model_data": {"strings": ["uber.event.sculk_key"]},
+                "minecraft:custom_data": {
+                  "type": "uber.event",
+                  "item": "sculk_key"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "uberserver:spawners/sculk_vault/key"
+}

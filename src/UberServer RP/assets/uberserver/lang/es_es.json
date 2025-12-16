@@ -31,6 +31,9 @@
   "uber.event.paquito_skull.lore": "El cráneo de un habitante de las ciudades",
   "uber.event.paquito_skull.lore2": "antiguas conocido como Paquito",
 
+  "uber.event.sculk_key.name": "Llave de Sculk",
+  "uber.event.sculk_key.lore": "Esta llave debe abrir algo cercano...",
+
   "uber.event.sculk_sample.name": "Muestra de Sculk",
   "uber.event.sculk_sample.lore": "Una muestra de Sculk primigenia.",
   "uber.event.sculk_sample.lore2": "Parece inofensiva, pero emite",
@@ -40,6 +43,9 @@
   "uber.event.purified_sculk_sample.lore": "Una muestra de Sculk que ha sido",
   "uber.event.purified_sculk_sample.lore2": "purificada. Ahora permanece",
   "uber.event.purified_sculk_sample.lore3": "inerte. ¿Para qué servirá?",
+
+  "uber.event.sculk_egg_compass.name": "Rastreador de Sculk",
+  "uber.event.sculk_egg_compass.lore": "Apunta hacia un huevo de Sculk cercano",
   
   "uber.ticket.claim.name": "Ticket por un chunk",
   "uber.ticket.forceload.name": "Ticket por la carga de un chunk",
@@ -48,10 +54,23 @@
   "uber.trinkets.infinite_pearl.name": "Perla de Ender Infinita",
   "uber.trinkets.infinite_pearl.lore": "¡Es infinita!",
   
-  "uber.npc.ticket_trader.name": "Investigador extranjero",
-  "uber.npc.pattern_trader_armor.name": "Maestro herrero de armaduras",
-  "uber.npc.pattern_trader_weapon.name": "Maestro herrero de armas",
-  "uber.npc.pattern_trader_tool.name": "Maestro herrero de herramientas",
+  "uber.npc.quest_giver.name": "Indiana Jones",
+  "uber.npc.ticket_trader.name": "Tapón",
+  "uber.npc.jailer.name": "Henry Jones",
 
+  "uber.npc.pattern_trader_armor.name": "Brok",
+  "uber.npc.pattern_trader_weapon.name": "Sindri",
+  "uber.npc.pattern_trader_tool.name": "Eitri",
+
+  "uber.npc.quest_giver.dialogue.chapter1.text1": "¡Ahí estás! Tu eres uno de esa gente que correteaba por arriba cambiando micelio sobrecargando la máquina, ¿No? Bueno, no os preocupéis, la hemos apagado de momento. Y tened cuidado, nos ha costado mucho despejar esta sección de la ruina, no vayáis a provocar otro desprendimiento.",
+  "uber.npc.quest_giver.dialogue.chapter1.text1.answer1": "Disculpa, pero... ¿Quién eres tú?",
+  "uber.npc.quest_giver.dialogue.chapter1.text1.answer2": "¿A que te parto la cara, payaso? ¿Tu quien eres y de qué vás?",
+  "uber.npc.quest_giver.dialogue.chapter1.text2": "¿No nos reconoces? ¡Estás hablando con Indiana Jones, representante de esta expedición de la sociedad arqueológica del cubo! Llegamos aquí siguiendo la cápsula que habéis visto caer del cielo. Nuestra sociedad lleva siglos siguiéndola con nuestros telescopios, ¡Y por fin ha caído!",
+  "uber.npc.quest_giver.dialogue.chapter1.text2.answer1": "¿Cápsula? ¿Órbita? ¿De qué hablas?",
+  "uber.npc.quest_giver.dialogue.chapter1.text2.answer2": "¿Tiene que ver con el Sculk que hemos encontrado?",
+  "uber.npc.quest_giver.dialogue.chapter1.text3": "Disculpa, a veces olvido que no todo el mundo está tan versado en las ciencias. Verás, seguro que conoces el Sculk, ¿Verdad? Es un material aparentemente inerte, pero cuando se le alimenta con el alma de una criatura cercana, cobra vida durante un instante para expandirse.",
+  "uber.npc.quest_giver.dialogue.chapter1.text3.alt1": "¡Ya habéis encontrado uno! ¡Maravilloso! Veo que hablo con gente preparada, eso facilita mucho las cosas. Como sabréis, el Sculk es capaz de tomar vida para expandirse, cuando es alimentado por el alma de una criatura cercana, ¿Verdad?",
+  "uber.npc.quest_giver.dialogue.chapter1.text3.answer1": "Ajam...",
+  "uber.npc.quest_giver.dialogue.chapter1.text3.text4": "Pues bien, nuestra sociedad ha teorizado durante siglos que el Sculk que conocemos hoy no es más que una forma durmiente de la verdadera monstruosidad que los Antiguos Ciudadanos desataron cuándo consiguieron cavar a través de la Piedra Base. Por todos es sabido que la aparición del Sculk coincidió con la desaparición de estas civilizaciones, pero nadie ha sido capaz de explicar el vínculo entre ambos sucesos.",
   "if_you_see_this_message_then_you_need_to_download_the_resource_pack_from_modrinth": ""
 }

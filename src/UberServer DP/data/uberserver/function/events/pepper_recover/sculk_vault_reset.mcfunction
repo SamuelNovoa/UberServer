@@ -1,0 +1,1 @@
+execute if data block ~ ~ ~ server_data.rewarded_players[0] run data modify block ~ ~ ~ server_data.rewarded_players set value []
