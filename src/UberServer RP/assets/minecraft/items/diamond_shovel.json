@@ -3,6 +3,7 @@
     "type": "minecraft:select",
     "property": "minecraft:custom_model_data",
     "cases": [
+      { "when": "uber.gear.sculk_shovel", "model": { "type": "minecraft:model", "model": "uberserver:item/sculk_shovel" } },
       { "when": "uber.gear.purified_sculk_shovel", "model": { "type": "minecraft:model", "model": "uberserver:item/purified_sculk_shovel" } }
     ],
     "fallback": { "type": "minecraft:model", "model": "minecraft:item/diamond_shovel" }

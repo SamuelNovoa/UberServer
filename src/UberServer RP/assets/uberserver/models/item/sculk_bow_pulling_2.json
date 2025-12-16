@@ -1,0 +1,6 @@
+{
+  "parent": "uberserver:item/sculk_bow",
+  "textures": {
+    "layer0": "uberserver:item/sculk_bow_pulling_2"
+  }
+}

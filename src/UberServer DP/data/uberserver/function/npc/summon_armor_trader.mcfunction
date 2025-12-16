@@ -28,11 +28,11 @@ summon villager ~ ~ ~ { \
                     id: "minecraft:paper", \
                     count: 1, \
                     components: { \
-                        item_name: {translate: "uber.pattern.purified_sculk_armor_pattern.name"}, \
+                        item_name: {translate: "uber.pattern.sculk_armor_pattern.name"}, \
                         lore: [{translate: "uber.pattern.patterns.lore"}], \
                         rarity: "rare", \
-                        custom_model_data: {strings: ["uber.pattern.purified_sculk_armor_pattern"]}, \
-                        custom_data: {type: "uber.pattern", item: "purified_sculk_armor_pattern"} \
+                        custom_model_data: {strings: ["uber.pattern.sculk_armor_pattern"]}, \
+                        custom_data: {type: "uber.pattern", item: "sculk_armor_pattern"} \
                     } \
                 } \
             }, \

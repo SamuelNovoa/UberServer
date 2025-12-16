@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "uberserver:sculk_elytra",
+        "use_player_texture": false
+      }
+    ]
+  }
+}

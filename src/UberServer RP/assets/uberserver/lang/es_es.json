@@ -16,12 +16,16 @@
   "uber.gear.diamond_rank.lore": "Rango Diamante",
   "uber.gear.netherite_rank.lore": "Rango Netherita",
 
-  "uber.gear.purified_sculk_gear.lore": "¡Siente el poder del Sculk!",
+  "uber.gear.sculk_gear.lore": "¡Siente el poder del Sculk!",
+  "uber.gear.purified_sculk_gear.lore": "Limpio como una patena...",
   "uber.gear.minimal_gear.lore": "¡Con el es como si no llevara nada!",
 
-  "uber.pattern.purified_sculk_armor_pattern.name": "Patrón para armaduras de Sculk Purificada",
-  "uber.pattern.purified_sculk_weapon_pattern.name": "Patrón para armas de Sculk Purificada",
-  "uber.pattern.purified_sculk_tool_pattern.name": "Patrón para herramientas de Sculk Purificada",
+  "uber.pattern.sculk_armor_pattern.name": "Patrón para armaduras de Sculk",
+  "uber.pattern.sculk_weapon_pattern.name": "Patrón para armas de Sculk",
+  "uber.pattern.sculk_tool_pattern.name": "Patrón para herramientas de Sculk",
+  "uber.pattern.purified_sculk_armor_pattern.name": "Patrón para armaduras de Sculk Purificado",
+  "uber.pattern.purified_sculk_weapon_pattern.name": "Patrón para armas de Sculk Purificado",
+  "uber.pattern.purified_sculk_tool_pattern.name": "Patrón para herramientas de Sculk Purificado",
   "uber.pattern.minimal_netherite_armor_pattern.name": "Patrón para armaduras de netherita minimalista",
   "uber.pattern.minimal_diamond_armor_pattern.name": "Patrón para armaduras de diamante minimalista",
 

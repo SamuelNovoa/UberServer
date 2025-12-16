@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "fabric:type": "fabric:components",
+    "base": "minecraft:paper",
+    "components": {
+        "minecraft:custom_data": {
+            "type": "uber.pattern",
+            "item": "sculk_tool_pattern"
+        }
+    },
+    "strict": true
+  },
+  "base": "minecraft:diamond_shovel",
+  "result": {
+    "id": "minecraft:diamond_shovel",
+    "components": {
+        "minecraft:rarity": "rare",
+        "minecraft:lore": [{"translate": "uber.gear.diamond_rank.lore"}],
+        "minecraft:custom_model_data": {"strings": ["uber.gear.sculk_shovel"]}
+    }
+  }
+}

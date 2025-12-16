@@ -1,0 +1,10 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      { "when": "uber.event.sculk_sample", "model": { "type": "minecraft:model", "model": "uberserver:item/bottled_sculk" } }
+    ],
+    "fallback": { "type": "minecraft:model", "model": "minecraft:item/echo_shard" }
+  }
+}

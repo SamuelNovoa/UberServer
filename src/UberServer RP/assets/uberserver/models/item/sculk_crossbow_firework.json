@@ -1,0 +1,6 @@
+{
+  "parent": "uberserver:item/sculk_crossbow",
+  "textures": {
+    "layer0": "uberserver:item/sculk_crossbow_firework"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      { "when": "uber.gear.sculk_mace", "model": { "type": "minecraft:model", "model": "uberserver:item/sculk_mace" } }
+    ],
+    "fallback": { "type": "minecraft:model", "model": "minecraft:item/mace" }
+  }
+}

@@ -6,5 +6,6 @@ give @s minecraft:echo_shard[ \
         {translate: "uber.event.sculk_sample.lore3"} \
     ], \
     minecraft:rarity="rare", \
+    minecraft:custom_model_data={strings: ["uber.event.sculk_sample"]}, \
     minecraft:custom_data={type: "uber.event", item: "sculk_sample"} \
-] 1
+] 64

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "#minecraft:netherite_tool_materials",
+  "base": {
+    "fabric:type": "fabric:difference",
+    "base": "minecraft:diamond_axe",
+    "subtracted": {
+      "fabric:type": "fabric:components",
+      "base": "minecraft:diamond_axe",
+      "components": {
+        "minecraft:lore": [{"translate": "uber.gear.diamond_rank.lore"}]
+      }
+    }
+  },
+  "result": {
+    "id": "minecraft:netherite_axe"
+  },
+  "template": "minecraft:netherite_upgrade_smithing_template"
+}

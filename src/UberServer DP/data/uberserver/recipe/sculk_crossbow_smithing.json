@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "fabric:type": "fabric:components",
+    "base": "minecraft:paper",
+    "components": {
+        "minecraft:custom_data": {
+            "type": "uber.pattern",
+            "item": "sculk_weapon_pattern"
+        }
+    },
+    "strict": true
+  },
+  "base": "minecraft:crossbow",
+  "result": {
+    "id": "minecraft:crossbow",
+    "components": {
+        "minecraft:rarity": "rare",
+        "minecraft:custom_model_data": {"strings": ["uber.gear.sculk_crossbow"]}
+    }
+  }
+}

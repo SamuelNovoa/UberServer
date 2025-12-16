@@ -16,9 +16,13 @@
   "uber.gear.diamond_rank.lore": "Diamond Rank",
   "uber.gear.netherite_rank.lore": "Netherite Rank",
 
-  "uber.gear.purified_sculk_gear.lore": "Feel the power of the Sculk!",
+  "uber.gear.sculk_gear.lore": "Feel the power of Sculk!",
+  "uber.gear.purified_sculk_gear.lore": "Clean as a whistle...",
   "uber.gear.minimal_gear.lore": "Feels like I'm wearing nothing at all!",
 
+  "uber.pattern.sculk_armor_pattern.name": "Sculk Armor Pattern",
+  "uber.pattern.sculk_weapon_pattern.name": "Sculk Weapon Pattern",
+  "uber.pattern.sculk_tool_pattern.name": "Sculk Tool Pattern",
   "uber.pattern.purified_sculk_armor_pattern.name": "Purified Sculk Armor Pattern",
   "uber.pattern.purified_sculk_weapon_pattern.name": "Purified Sculk Weapon Pattern",
   "uber.pattern.purified_sculk_tool_pattern.name": "Purified Sculk Tool Pattern",
