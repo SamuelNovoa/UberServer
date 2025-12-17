@@ -1,3 +1,11 @@
+summon interaction ~ ~ ~ { \
+    width: 0.8f, \
+    height: 1.95f, \
+    response: 0b, \
+    Tags: ["uber.quest_giver_hitbox"], \
+    CustomName: {"translate":"uber.npc.quest_giver.name", "italic": false}, \
+}
+
 summon villager ~ ~ ~ { \
     NoAI: 1b, \
     Invulnerable: 1b, \
@@ -6,7 +14,6 @@ summon villager ~ ~ ~ { \
         level: 5, \
         type: "minecraft:jungle" \
     }, \
-    CustomName: {"translate":"uber.npc.quest_giver.name"}, \
     Tags: ["uber.quest_giver"], \
-    Offers: { Recipes: [] } \
+    CustomName: {"translate":"uber.npc.quest_giver.name", "italic": false} \
 }

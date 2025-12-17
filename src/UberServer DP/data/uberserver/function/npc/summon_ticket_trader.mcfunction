@@ -6,7 +6,8 @@ summon villager ~ ~ ~ { \
         level: 5, \
         type: "minecraft:savanna" \
     }, \
-    CustomName: {"translate":"uber.npc.ticket_trader.name"}, \
+    Tags: ["uber.ticket_trader"], \
+    CustomName: {"translate":"uber.npc.ticket_trader.name", "italic": false}, \
     Offers: { \
         Recipes: [ \
             { \

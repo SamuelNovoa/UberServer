@@ -2,11 +2,12 @@ summon villager ~ ~ ~ { \
     NoAI: 1b, \
     Invulnerable: 1b, \
     VillagerData: { \
-        profession:"minecraft:weaponsmith", \
+        profession:"minecraft:toolsmith", \
         level: 5, \
         type: "minecraft:snow" \
     }, \
-    CustomName: {"translate":"uber.npc.pattern_trader_tool.name"}, \
+    Tags: ["uber.tool_trader"], \
+    CustomName: {"translate":"uber.npc.pattern_trader_tool.name", "italic": false}, \
     Offers: { \
         Recipes: [ \
             { \

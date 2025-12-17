@@ -6,7 +6,8 @@ summon villager ~ ~ ~ { \
         level: 5, \
         type: "minecraft:snow" \
     }, \
-    CustomName: {"translate":"uber.npc.pattern_trader_armor.name"}, \
+    Tags: ["uber.armor_trader"], \
+    CustomName: {"translate":"uber.npc.pattern_trader_armor.name", "italic": false}, \
     Offers: { \
         Recipes: [ \
             { \
