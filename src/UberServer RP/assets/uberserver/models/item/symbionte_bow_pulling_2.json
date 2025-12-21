@@ -1,0 +1,6 @@
+{
+  "parent": "uberserver:item/symbionte_bow",
+  "textures": {
+    "layer0": "uberserver:item/symbionte_bow_pulling_2"
+  }
+}

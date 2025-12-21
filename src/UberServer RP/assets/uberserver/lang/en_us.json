@@ -9,9 +9,18 @@
   "uber.gear.ancient_shovel.lore2": "with a powerful magic that is",
   "uber.gear.ancient_shovel.lore3": "no longer within our reach",
 
+  "uber.gear.refined_sculk_pickaxe.name": "Refined Sculk Pickaxe",
+  "uber.gear.refined_sculk_pickaxe.lore": "This Sculk has been forged",
+  "uber.gear.refined_sculk_pickaxe.lore2": "by the Ancient Citizens",
+  "uber.gear.refined_sculk_pickaxe.lore3": "from primordial Sculk",
+
   "uber.gear.ancient_bow.name": "Ancient Netherite Bow",
   "uber.gear.ancient_bow.lore": "An ancient bow forged by",
   "uber.gear.ancient_bow.lore2": "a lost civilization",
+
+  "uber.gear.symbionte_bow.name": "Symbiont Bow",
+  "uber.gear.symbionte_bow.lore": "A bow fused with a living being",
+  "uber.gear.symbionte_bow.lore2": "It seems to beat with life itself",
 
   "uber.gear.diamond_rank.lore": "Diamond Rank",
   "uber.gear.netherite_rank.lore": "Netherite Rank",

@@ -4,7 +4,8 @@
     "property": "minecraft:custom_model_data",
     "cases": [
       { "when": "uber.gear.sculk_pickaxe", "model": { "type": "minecraft:model", "model": "uberserver:item/sculk_pickaxe" } },
-      { "when": "uber.gear.purified_sculk_pickaxe", "model": { "type": "minecraft:model", "model": "uberserver:item/purified_sculk_pickaxe" } }
+      { "when": "uber.gear.purified_sculk_pickaxe", "model": { "type": "minecraft:model", "model": "uberserver:item/purified_sculk_pickaxe" } },
+      { "when": "uber.gear.refined_sculk_pickaxe", "model": { "type": "minecraft:model", "model": "uberserver:item/refined_sculk_pickaxe" } }
     ],
     "fallback": { "type": "minecraft:model", "model": "minecraft:item/netherite_pickaxe" }
   }

@@ -9,9 +9,18 @@
   "uber.gear.ancient_shovel.lore2": "con una poderosa magia que ya",
   "uber.gear.ancient_shovel.lore3": "no está a nuestro alcance",
 
+  "uber.gear.refined_sculk_pickaxe.name": "Pico de Sculk Refinado",
+  "uber.gear.refined_sculk_pickaxe.lore": "Este Sculk ha sido forjado",
+  "uber.gear.refined_sculk_pickaxe.lore2": "por los Ciudadanos Antiguos",
+  "uber.gear.refined_sculk_pickaxe.lore3": "a partir del Sculk primigenio",
+
   "uber.gear.ancient_bow.name": "Arco de netherita Antiguo",
   "uber.gear.ancient_bow.lore": "Un arco antiguo forjado por",
   "uber.gear.ancient_bow.lore2": "una civilización perdida",
+
+  "uber.gear.symbionte_bow.name": "Arco Simbionte",
+  "uber.gear.symbionte_bow.lore": "Un arco fusionado con un ser vivo",
+  "uber.gear.symbionte_bow.lore2": "Parece latir con vida propia",
 
   "uber.gear.diamond_rank.lore": "Rango Diamante",
   "uber.gear.netherite_rank.lore": "Rango Netherita",
