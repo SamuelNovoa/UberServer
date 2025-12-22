@@ -16,13 +16,18 @@ summon villager ~ ~ ~ { \
                 rewardExp: 0, \
                 priceMultiplier: 0.0, \
                 buy: { \
-                    id: "minecraft:jigsaw", \
-                    count: 3, \
+                    id: "minecraft:echo_shard", \
+                    count: 10, \
                     components: { \
-                        item_name: {translate: "uber.item.gold_coin"}, \
-                        rarity: "common", \
-                        custom_model_data: {strings: ["uber.coin.gold"]}, \
-                        custom_data: {item: "uber.coin", coin: "gold"} \
+                        item_name: {translate: "uber.event.sculk_sample.name"}, \
+                        lore: [ \
+                            {translate: "uber.event.sculk_sample.lore"}, \
+                            {translate: "uber.event.sculk_sample.lore2"}, \
+                            {translate: "uber.event.sculk_sample.lore3"} \
+                        ], \
+                        rarity: "rare", \
+                        custom_model_data: {strings: ["uber.event.sculk_sample"]}, \
+                        custom_data: {type: "uber.event", item: "sculk_sample"} \
                     } \
                 }, \
                 sell: { \
