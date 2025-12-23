@@ -7,6 +7,9 @@ execute as @a at @s run function uberserver:trinkets/infinite_pearl_tick
 # Castigaos
 execute as @a[tag=punished_player] in uberserver:gm_island run tp @s -78 18 -132
 
+# Skeletons with special arrows
+execute as @e[type=skeleton,tag=sculk_skeleton] unless items entity @s weapon.offhand minecraft:tipped_arrow run function uberserver:npc/give_darkness_arrow
+
 # Pepper Recover Event
 # Infinite Sculk Vault
 execute if score uberserver pepper_recovery_event_state matches 1 as @e[type=minecraft:marker,tag=sculk_vault_marker] at @s run function uberserver:events/pepper_recover/sculk_vault_reset

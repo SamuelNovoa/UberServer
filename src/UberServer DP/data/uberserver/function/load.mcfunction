@@ -1,3 +1,8 @@
+team add sculk_zombie
+team add sculk_skeleton
+team add sculk_spider
+team add sculk_cave_spider
+
 scoreboard objectives add ticket_used minecraft.used:minecraft.carrot_on_a_stick
 scoreboard objectives add claim_ticket_used dummy
 scoreboard objectives add forceload_ticket_used dummy

@@ -13,11 +13,36 @@
     {
       "data": {
         "entity": {
-          "id": "minecraft:zombie"
+          "id": "minecraft:zombie",
+          "Tags": ["sculk_zombie"],
+          "Team": "sculk_zombie"
         },
         "equipment": {
-          "loot_table": "minecraft:equipment/trial_chamber_melee",
+          "loot_table": "uberserver:equipment/sculk_egg_melee",
           "slot_drop_chances": 0.0
+        }
+      },
+      "weight": 2
+    },
+    {
+      "data": {
+        "entity": {
+          "id": "minecraft:skeleton",
+          "Tags": ["sculk_skeleton"],
+          "Team": "sculk_skeleton"
+        },
+        "equipment": {
+          "loot_table": "uberserver:equipment/sculk_egg_ranged",
+          "slot_drop_chances": 0.0
+        }
+      },
+      "weight": 2
+    },
+    {
+      "data": {
+        "entity": {
+          "id": "minecraft:spider",
+          "Team": "sculk_spider"
         }
       },
       "weight": 1
@@ -25,11 +50,8 @@
     {
       "data": {
         "entity": {
-          "id": "minecraft:bogged"
-        },
-        "equipment": {
-          "loot_table": "minecraft:equipment/trial_chamber_ranged",
-          "slot_drop_chances": 0.0
+          "id": "minecraft:cave_spider",
+          "Team": "sculk_cave_spider"
         }
       },
       "weight": 1
