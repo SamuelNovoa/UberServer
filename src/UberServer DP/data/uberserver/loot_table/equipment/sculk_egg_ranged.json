@@ -44,35 +44,19 @@
             }
           ],
           "name": "minecraft:bow"
-        }
-      ],
-      "rolls": 1.0
-    },
-        {
-      "bonus_rolls": 0.0,
-      "entries": [
+        },
         {
           "type": "minecraft:item",
-          "name": "minecraft:tipped_arrow",
           "functions": [
             {
-              "function": "minecraft:set_components",
-              "components": {
-                "potion_contents": {
-                  "custom_effects": [
-                    {"id": "darkness", "duration": 2000}
-                  ]
-                }
-              }
-            },
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 64,
-                "max": 64
-              }
+              "add": false,
+              "enchantments": {
+                "minecraft:power": 2.0
+              },
+              "function": "minecraft:set_enchantments"
             }
-          ]
+          ],
+          "name": "minecraft:bow"
         }
       ],
       "rolls": 1.0
